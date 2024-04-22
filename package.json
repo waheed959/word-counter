@@ -1,0 +1,22 @@
+{
+  "name": "@waheed_rajput/word_counter",
+  "version": "2.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "This program counts the word using typescript",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
